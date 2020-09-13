@@ -1,0 +1,12 @@
+{
+  "name": "simple-mux-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "browser-sync start --server --files "
+  },
+  "author": "Mike Connor <mike@cloudswing.info> (https://github.com/mconnor/)",
+  "license": "ISC"
+}
